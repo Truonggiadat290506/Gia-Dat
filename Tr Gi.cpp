@@ -2,9 +2,9 @@
 int main ()
 {
 	//MSSV
-	printf ("\nMa So Sinh Vien: 110124113");
+	printf ("\nMa So Sinh Vien: 110124023");
 	//Ho Ten
-	printf ("\nHo Va Ten: Dang Chi Luong");
+	printf ("\nHo Va Ten:Truong Gia Dat");
 	//Lop
 	printf ("\nMa Lop: DA24TTA");
 	//Nam Sinh
